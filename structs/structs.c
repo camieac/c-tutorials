@@ -1,6 +1,30 @@
+/**
+* @file structs.c
+* @author Joe Bloggs
+* @date 20 Sep 2016
+* @copyright 2016 Joe Bloggs
+* @brief <brief>
+*
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+* @brief <brief>
+* @param [in] <name> <parameter_description>
+* @return <return_description>
+* @details <details>
+*/
+void dummy_function(){
+
+}
+
+/**
+* @brief <brief>
+* @param [in] <name> <parameter_description>
+* @return <return_description>
+* @details <details>
+*/
 int main(){
 
   typedef struct {
